@@ -6,12 +6,11 @@
 	color: #0000FF;
 	font-size: 36px;
 }
-.third {
+.adjust-font-size {
 	font-size: 24px;
 }
 
 #fourth {
 	background-color: #90EE90;
-	font-size: 24px;
 	font-weight: bold;
 }
